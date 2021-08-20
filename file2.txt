@@ -1,2 +1,4 @@
  I'm inside file2
 modify file2
+modify file2
+modify file2
