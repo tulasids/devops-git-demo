@@ -1,1 +1,2 @@
 I am inside file1
+modify file1
